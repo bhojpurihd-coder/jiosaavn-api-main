@@ -1,4 +1,5 @@
 {
+  "build": "ls -R && tsc"
   "name": "jiosaavn-api",
   "version": "0.1.0",
   "description": "Unofficial JioSaavn API",
